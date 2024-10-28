@@ -1,6 +1,6 @@
 This repository contains my second Continuous Assessment report for the Human-Computer Interaction module, completed in the second year of my Computer Science degree at TU Dublin.
 
-## Project Overview
+# Project Overview
 
 This report documents the **redesign of the Daily Mail website** with a focus on enhancing user experience. Building upon the insights gathered in CA 1, I identified core usability issues and applied design theory to propose targeted improvements.
 
